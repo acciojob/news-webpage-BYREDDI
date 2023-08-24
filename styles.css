@@ -25,3 +25,7 @@ body{
 	display:inline-block;
 	width:2000px;
 }
+#img-1,#img-2,#img-3
+{
+	display:inline-block;
+}
