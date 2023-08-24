@@ -9,7 +9,7 @@ body{
 	text-align:center;
 	margin:auto;
 }
-#div-1,#div-2,#div-3
+#div-1,#div-2,#pictorial-news-section
 {
 	display:inline-block;
 	background-color:white;
@@ -23,7 +23,7 @@ body{
 	width:150px;
 	padding:10px;
 }
-#div-3
+#pictorial-news-section
 {
 	/*margin-left:40px;*/
 	display:inline-block;
