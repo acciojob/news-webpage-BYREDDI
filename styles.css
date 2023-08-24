@@ -11,4 +11,6 @@ body{
 #div-1
 {
 	background-color:white;
+	border-radius:5px;
+	width:auto;
 }
