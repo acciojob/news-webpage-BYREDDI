@@ -10,7 +10,13 @@ body{
 }
 #div-1,#div-2,#div-3
 {
+	display:inline-block;
 	background-color:white;
 	border-radius:5px;
 	width:auto;
+}
+#div-2
+{
+	display:inline-block;
+	width:300px;
 }
