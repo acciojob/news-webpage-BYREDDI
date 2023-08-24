@@ -21,6 +21,7 @@ body{
 	/*margin-left:40px;*/
 	display:inline-block;
 	width:150px;
+	padding:10px;
 }
 #div-3
 {
@@ -32,12 +33,11 @@ body{
 {
 	display:inline-block;
 }
-#news
+.news
 {
     margin:auto;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
-	justify-content:center;
 	align-items:baseline;
 }
