@@ -17,11 +17,13 @@ body{
 }
 #div-2
 {
+	margin-left:40px;
 	display:inline-block;
 	width:150px;
 }
 #div-3
 {
+	margin-left:40px;
 	display:inline-block;
 	width:200px;
 }
