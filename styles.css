@@ -18,5 +18,10 @@ body{
 #div-2
 {
 	display:inline-block;
-	width:300px;
+	width:150px;
+}
+#div-3
+{
+	display:inline-block;
+	width:2000px;
 }
